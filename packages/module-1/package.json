@@ -1,0 +1,23 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "wcp240187 <wcp240187@alibabapictures.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/module-1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "module-1": "^0.0.0",
+    "vue": "^2.6.12"
+  }
+}
